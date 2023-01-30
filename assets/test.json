@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 66,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Harriet Torry",
+            "title": "November Retail Sales and Manufacturing Declines Point to Slowing Economy - The Wall Street Journal",
+            "description": "Shoppers spent less in November on holiday-related items and autos as Fed continued raising rates",
+            "url": "https://www.wsj.com/articles/us-economy-retail-sales-november-2022-11671059629",
+            "urlToImage": "https://images.wsj.net/im-685106/social",
+            "publishedAt": "2022-12-15T18:00:00Z",
+            "content": "U.S. retail spending and manufacturing weakened in November, signs of a slowing economy as the Federal Reserve continues its \r\nbattle against high inflation.November retail sales fell 0.6% from the p… [+282 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Alex Hern",
+            "title": "FTX ally warned authorities days before Bankman-Fried arrest - The Guardian",
+            "description": "Ryan Salame told the Bahamian securities commission that funds were being used improperly",
+            "url": "https://www.theguardian.com/business/2022/dec/15/ftx-warned-before-sam-bankman-fried-arrest",
+            "urlToImage": "https://i.guim.co.uk/img/media/c8d44195c4fb8622f069d9b348bb4a750a5615c4/0_103_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac6186b2b268fc784feca95ae065f6b7",
+            "publishedAt": "2022-12-15T15:29:00Z",
+            "content": "One of the closest lieutenants of FTX founder, Sam Bankman-Fried, warned Bahamian regulators about improper trades at the cryptocurrency exchange in the days running up to its collapse, according to … [+3185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Rohan Goswami",
+            "title": "Binance CEO Zhao brushes off $2.1 billion FTX clawback concerns - CNBC",
+            "description": "Binance CEO Changpeng \"CZ\" Zhao brushed off questions about whether the exchange would be able to handle a potential $2.1 billion clawback of FTX funds.",
+            "url": "https://www.cnbc.com/2022/12/15/binance-ceo-changpeng-cz-zhao-brushes-off-2-billion-ftx-clawback-concerns-fraud.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107149316-1668030622412-bin.jpg?v=1671116152&w=1920&h=1080",
+            "publishedAt": "2022-12-15T14:55:52Z",
+            "content": "Binance chief executive Changpeng \"CZ\" Zhao dismissed concerns that his company could have $2.1 billion clawed back as a result of FTX's bankruptcy proceedings, in an appearance on Squawk Box Thursda… [+1354 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "David Goldman",
+            "title": "Massive changes could be coming to the way the stock market functions - CNN",
+            "description": "Wall Street's top cop has voted in favor of major changes to the way millions of everyday investors buy and sell stocks.",
+            "url": "https://www.cnn.com/2022/12/15/investing/sec-payment-for-order-flow/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221214153344-02-nyse-1214.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-15T14:45:00Z",
+            "content": "Wall Streets top cop has voted in favor of major changes to the way millions of everyday investors buy and sell stocks. \r\nThe Securities and Exchange Commission Wednesday proposed a rule that it says… [+2833 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "UK interest rates raised to highest level for 14 years - BBC",
+            "description": "The Bank of England lifts borrowing costs to 3.5% from 3%, the ninth rise in a row.",
+            "url": "https://www.bbc.com/news/business-63977963",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1589D/production/_128012288_gettyimages-948544534.jpg",
+            "publishedAt": "2022-12-15T14:31:07Z",
+            "content": "The Bank of England has raised UK interest rates to their highest level for 14 years as it battles to stem soaring prices.\r\nIt increased them to 3.5% from 3%, marking the ninth time in a row it has h… [+5171 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures Signal More Losses On Fed Rate Hike Outlook; Elon Musk Sells More Tesla Stock | Investor's Business Daily - Investor's Business Daily",
+            "description": "The major indexes reversed lower Wednesday. Solar stocks were strong.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-rate-hike-outlook-hits-market-rally-elon-musk-sells-more-tesla-stock/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2022/05/Stock-elonmusk-grumpy-01-shutt.jpg",
+            "publishedAt": "2022-12-15T13:18:00Z",
+            "content": "Dow Jones futures fell solidly early Thursday, along with S&amp;P 500 futures and Nasdaq futures, as investors continued to mull Wednesday's Federal Reserve news. Weak Chinese economic data and upcom… [+9731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sarah Min, Tanaya Macheel",
+            "title": "Stock futures fall a second day on fears the Fed will tip the economy into a recession - CNBC",
+            "description": "Investors were digesting the Fed's decision to keep hiking rates through 2023 and its higher-than-expected terminal rate.",
+            "url": "https://www.cnbc.com/2022/12/14/stock-market-futures-open-to-close-news.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107160431-1669999890754-nyse.jpg?v=1671058990&w=1920&h=1080",
+            "publishedAt": "2022-12-15T12:42:00Z",
+            "content": "Stock futures were sharply lower Thursday as investors feared the Federal Reserve's latest policy update could tip the economy into a recession.\r\nFutures tied to the Dow Jones Industrial Average fell… [+1921 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "What in the world is nuclear fusion — and when will we harness it? - The Verge",
+            "description": "Nuclear fusion could be a potentially limitless clean energy source. Scientists recently made a big breakthrough in fusion power research, but there’s still a long road ahead.",
+            "url": "https://www.theverge.com/23508872/nuclear-fusion-power-clean-energy-breakthrough-explained",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/nhPaGPqeJBQ7S60ijj7yfYS5H_I=/0x0:3300x2100/1200x628/filters:focal(1650x1050:1651x1051)/cdn.vox-cdn.com/uploads/chorus_asset/file/24291677/X_rays.jpeg",
+            "publishedAt": "2022-12-15T12:30:00Z",
+            "content": "What in the world is nuclear fusion and when will we harness it?\r\nWhat in the world is nuclear fusion and when will we harness it?\r\n / Fusion power could revolutionize our energy system. But after de… [+10852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Greg Norman",
+            "title": "Sam Bankman-Fried's relatives asked Bahamas prison if he could get vegan meals there: report - Fox Business",
+            "description": "Relatives of FTX founder Sam Bankman-Fried have called the prison where he is being held in Nassau, Bahamas, to ask if he could get vegan meals delivered, a report says.",
+            "url": "https://www.foxbusiness.com/economy/sam-bankman-fried-bahamas-prison-fox-hill-vegan-request-report",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/ideo-shows-squalid-conditions-at-prison-where-Bankman-Fried-will-be-held1.png?ve=1&tl=1",
+            "publishedAt": "2022-12-15T12:27:47Z",
+            "content": "Relatives of FTX founder Sam Bankman-Fried reportedly have called the notorious prison where he is being held in the Bahamas to ask if vegan meals could be delivered there to him. \r\nA source told Blo… [+2932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Here's what to know about the Fed's half a point interest rate hike - CNBC Television",
+            "description": "CNBC's Steve Liesman joins 'Squawk Box' to break down the big takeaways from the Federal Reserve's latest interest rate decision. For access to live and excl...",
+            "url": "https://www.youtube.com/watch?v=QAF54MddOUw",
+            "urlToImage": "https://i.ytimg.com/vi/QAF54MddOUw/maxresdefault.jpg",
+            "publishedAt": "2022-12-15T12:24:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Points Guy"
+            },
+            "author": "Zach Griff",
+            "title": "American preps overhauled award charts, says goodbye to saver redemptions - The Points Guy",
+            "description": "American Airlines is gearing up to overhaul its award charts next year when it starts offering fully dynamic redemptions. This will mean the end of saver and anytime pricing.",
+            "url": "https://thepointsguy.com/news/american-airlines-overhauled-award-charts/",
+            "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2022/05/Planes-Zach-Griff-4.jpg",
+            "publishedAt": "2022-12-15T12:01:22Z",
+            "content": "As the saying goes: All good things must come to an end.\r\nFor long-time American Airlines AAdvantage members, next year may bring a big, albeit unwelcome, change to how you redeem miles with the prog… [+5619 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Charlie Wells",
+            "title": "Has Inflation Peaked? Here's How You Should Invest as Prices Cool, Fed Slows - Bloomberg",
+            "description": "To the relief of consumers and policymakers alike, it appears inflation has finally peaked.",
+            "url": "https://www.bloomberg.com/news/newsletters/2022-12-15/has-inflation-peaked-here-s-how-you-should-invest-as-prices-cool-fed-slows",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifSU2w.Nh87Y/v1/1200x800.jpg",
+            "publishedAt": "2022-12-15T11:30:18Z",
+            "content": "To the relief of consumers and policymakers alike, it appears inflation has finally \r\npeaked.\r\nIt’s not just because of deep, deep holiday discounts. The amount consumers pay for everything from hote… [+288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexandra Semenova",
+            "title": "Cathie Wood's ARK Invest buys Tesla stock amid plunge, Musk sells - Yahoo Finance",
+            "description": "Elon Musk fan Cathie Wood seized a sizable chunk of Tesla shares late Wednesday after the stock extended a recent skid to its lowest level in more than two...",
+            "url": "https://finance.yahoo.com/news/cathie-woods-ark-invest-buying-the-dip-tesla-elon-musk-112839188.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BNwg6Tg8spkP7ewDZX5wwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-05/08875c10-d081-11ec-bf6e-bf7809a7bbf2",
+            "publishedAt": "2022-12-15T11:28:39Z",
+            "content": "Elon Musk fan Cathie Wood seized a sizable chunk of Tesla stock (TSLA) late Wednesday after the stock extended a recent skid to its lowest level in more than two years.\r\nARK Invest, Woods investment … [+3644 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Hannah Ward-Glenton",
+            "title": "Swiss central bank lifts interest rates by 50 basis points to counter 'further spread of inflation' - CNBC",
+            "description": "The Swiss National Bank has increased its benchmark interest rate for the third time this year, taking it to 1%.",
+            "url": "https://www.cnbc.com/2022/12/15/swiss-central-bank-hikes-interest-rates-by-50-basis-points-to-counter-further-spread-of-inflation.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107166662-1671087178690-GettyImages-1242520143.jpg?v=1671093240&w=1920&h=1080",
+            "publishedAt": "2022-12-15T08:34:00Z",
+            "content": "The Swiss National Bank increased its benchmark interest rate Thursday for the third time this year, taking it to 1%.\r\nThe central bank said it was looking to counter \"increased inflationary pressure… [+1800 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Twitter Shakes Up Safety & Legal Teams - MSNBC",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqDKXTdB_Has",
+            "urlToImage": null,
+            "publishedAt": "2022-12-15T05:15:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin.com"
+            },
+            "author": "Kevin Helms",
+            "title": "Kevin O'Leary Tells US Lawmakers FTX Failed Because Binance Intentionally Killed It – Featured Bitcoin News - Bitcoin News",
+            "description": "Shark Tank star Kevin O'Leary has told U.S. Congress that FTX failed because rival Binance intentionally put it out of business.",
+            "url": "https://news.bitcoin.com/kevin-oleary-tells-us-lawmakers-ftx-failed-because-binance-intentionally-killed-it/",
+            "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/oleary-binance-ftx.jpg",
+            "publishedAt": "2022-12-15T04:36:23Z",
+            "content": "Shark Tank star Kevin O’Leary, aka Mr. Wonderful, has told U.S. Congress that he believes the collapsed crypto exchange FTX failed because rival Binance intentionally put it out of business. He said … [+4438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "California approves $2.9 billion investment to double car chargers in state - Yahoo! Voices",
+            "description": "The investment will result in 90,000 new EV chargers across the state, more than double the 80,000 chargers already installed, the energy commission said...",
+            "url": "https://news.yahoo.com/california-approves-2-9-billion-034318492.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/3b907b0b398f618e1eb83ea505633056",
+            "publishedAt": "2022-12-15T03:44:56Z",
+            "content": "(Reuters) - The California Energy Commission on Wednesday approved a $2.9 billion investment plan to accelerate the state's 2025 electric vehicle (EV) charging and hydrogen refueling goals.\r\nThe inve… [+1388 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nidhi Pandurangi",
+            "title": "Read the full memo CZ sent to staff after $1B withdrawn from Binance - Business Insider",
+            "description": "In the memo, CZ wrote that Binance expects \"the next several months to be bumpy.\" He added that the company will \"get past this challenging period.\"",
+            "url": "https://www.businessinsider.com/cz-binance-crypto-winter-read-full-memo-sent-to-staff-2022-12",
+            "urlToImage": "https://i.insider.com/61002c7d0d35a90018256429?width=1200&format=jpeg",
+            "publishedAt": "2022-12-15T03:16:00Z",
+            "content": "On Tuesday, jittery investors withdrew more than $1 billion from Binance, the world's largest crypto exchange. Hours later, the company's CEO, Changpeng \"CZ\" Zhao, sent a memo to staffers where he se… [+3187 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jacob Bogage, Tory Newmyer",
+            "title": "Lawmakers grapple with sheer size of FTX's missing billions - The Washington Post",
+            "description": "After Sam Bankman-Fried was charged with multiple financial crimes, the Senate Banking Committee considered proposals for tighter industry regulation.",
+            "url": "https://www.washingtonpost.com/business/2022/12/14/ftx-sbf-crypto-fraud-charges-hearing/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3FM6ZO4K335GD3UETGQ62P6BR4.JPG&w=1440",
+            "publishedAt": "2022-12-15T02:39:00Z",
+            "content": "Comment on this story\r\nLawmakers on Wednesday attempted to grapple with the stunning collapse of cryptocurrency exchange FTX a day after federal prosecutors laid out a case of brazen financial crimes… [+9557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Shivdeep Dhaliwal",
+            "title": "Bitcoin, Ethereum, Dogecoin Mixed After Fed Rate Hike: Analyst Says Apex Crypto's Path To $20,500 'Open' - Benzinga",
+            "description": "Bitcoin traded nearly flat and Ethereum was in the red on Wednesday evening after the U.S. Federal Reserve signaled more rate hikes for 2023.",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/22/12/30085524/bitcoin-ethereum-dogecoin-mixed-after-fed-rate-hike-analyst-says-apex-cryptos-path-to-20-5",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2022/12/14/shutterstock_1018654609.jpg?width=1200&height=800&fit=crop",
+            "publishedAt": "2022-12-15T01:28:05Z",
+            "content": "Bitcoin traded nearly flat and Ethereum was in the red on Wednesday evening after the U.S. Federal Reserve signaled more rate hikes for 2023. The global cryptocurrency market cap fell 0.3% to $867 bi… [+3558 chars]"
+        }
+    ]
+}
